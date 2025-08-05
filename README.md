@@ -3,15 +3,15 @@
 *A Decision Tree implementation to classify fictional characters' genres based on their attributes.*
 ## 📂 Repository Contents
 
- --decision_tree_classifier.py # Main Python script
+decision_tree_classifier.py # Main Python script
 
- --fictional_characters.xlsx # Dataset (2000+ entries)
+fictional_characters.xlsx # Dataset (2000+ entries)
 
- --high_res_tree.png # Decision Tree visualization (300dpi)
+high_res_tree.png # Decision Tree visualization (300dpi)
  
- --genre_classifier.pkl # Pretrained model (Joblib)
+genre_classifier.pkl # Pretrained model (Joblib)
  
- --requirements.txt # Dependencies
+ requirements.txt # Dependencies
  ## HOW TO RUN
  - Navigate to the project folder in cmd
  - install openpyxl to read the xlsx file using command : pip install openpyxl
