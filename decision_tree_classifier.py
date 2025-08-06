@@ -10,6 +10,7 @@ from sklearn.metrics import accuracy_score, classification_report
 from sklearn.preprocessing import LabelEncoder
 import matplotlib.pyplot as plt
 
+
 # --- Data Loading ---
 try:
     data = pd.read_excel('fictional_characters.xlsx', engine='openpyxl')
