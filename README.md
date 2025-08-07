@@ -1,7 +1,7 @@
 # Character Genre Classifier 
     
 *A Decision Tree implementation to classify fictional characters' genres based on their attributes.*
-## 📂 Repository Contents
+## 📂 Repository Contents 
 
 decision_tree_classifier.py # Main Python script
 
