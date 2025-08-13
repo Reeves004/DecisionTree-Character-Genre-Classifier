@@ -3,7 +3,7 @@
 *A Decision Tree implementation to classify fictional characters' genres based on their attributes.*
 ## 📂 Repository Contents    
 
-decision_tree_classifier.py # Main Python script
+decision_tree_classifier.py # Main Python script   
 
 fictional_characters.xlsx # Dataset (2000+ entries)
 
