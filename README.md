@@ -10,7 +10,7 @@ fictional_characters.xlsx # Dataset (2000+ entries)
 high_res_tree.png # Decision Tree visualization (300dpi)
  
 genre_classifier.pkl # Pretrained model (Joblib)
- 
+   
  requirements.txt # Dependencies
  ## HOW TO RUN
  - Navigate to the project folder in cmd
